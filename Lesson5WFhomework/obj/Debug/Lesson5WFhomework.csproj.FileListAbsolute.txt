@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\WinForms\Lesson5WFhomework\Lesson5WFhomework\bin\Debug\Lesson5WFhomework.exe.config
+C:\Users\User\Desktop\WinForms\Lesson5WFhomework\Lesson5WFhomework\bin\Debug\Lesson5WFhomework.exe
+C:\Users\User\Desktop\WinForms\Lesson5WFhomework\Lesson5WFhomework\bin\Debug\Lesson5WFhomework.pdb
+C:\Users\User\Desktop\WinForms\Lesson5WFhomework\Lesson5WFhomework\bin\Debug\MaterialSkin.dll
+C:\Users\User\Desktop\WinForms\Lesson5WFhomework\Lesson5WFhomework\obj\Debug\Lesson5WFhomework.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\WinForms\Lesson5WFhomework\Lesson5WFhomework\obj\Debug\Lesson5WFhomework.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\WinForms\Lesson5WFhomework\Lesson5WFhomework\obj\Debug\Lesson5WFhomework.Properties.Resources.resources
+C:\Users\User\Desktop\WinForms\Lesson5WFhomework\Lesson5WFhomework\obj\Debug\Lesson5WFhomework.csproj.GenerateResource.cache
+C:\Users\User\Desktop\WinForms\Lesson5WFhomework\Lesson5WFhomework\obj\Debug\Lesson5WFhomework.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\WinForms\Lesson5WFhomework\Lesson5WFhomework\obj\Debug\Lesson5WFhomework.csproj.CopyComplete
+C:\Users\User\Desktop\WinForms\Lesson5WFhomework\Lesson5WFhomework\obj\Debug\Lesson5WFhomework.exe
+C:\Users\User\Desktop\WinForms\Lesson5WFhomework\Lesson5WFhomework\obj\Debug\Lesson5WFhomework.pdb
+C:\Users\User\Desktop\WinForms\Lesson5WFhomework\Lesson5WFhomework\obj\Debug\Lesson5WFhomework.Form1.resources
+C:\Users\User\Desktop\WinForms\Lesson5WFhomework\Lesson5WFhomework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\WinForms\Lesson5WFhomework\Lesson5WFhomework\bin\Debug\Newtonsoft.Json.xml

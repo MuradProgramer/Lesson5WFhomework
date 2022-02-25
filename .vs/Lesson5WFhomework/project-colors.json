@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5aef9c70-0d1b-460a-9886-43e82e47e4d5": {
+      "ProjectGuid": "5aef9c70-0d1b-460a-9886-43e82e47e4d5",
+      "DisplayName": "Lesson5WFhomework",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
